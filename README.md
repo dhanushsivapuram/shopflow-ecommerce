@@ -88,7 +88,7 @@ Product reviews & ratings
 
 🙌 Author
 
-Bhumik Desai
+Bhumik Desai and team
 Second-year student | Full-Stack Web Developer
 Skills: MERN Stack, React, Node.js, MongoDB, REST APIs
 
@@ -96,3 +96,20 @@ Skills: MERN Stack, React, Node.js, MongoDB, REST APIs
 Razorpay Documentation
 MongoDB Atlas
 React & Express community
+
+---
+
+## 👥 Project Contribution
+
+This project was developed as a **team full-stack e-commerce application**.
+
+**Team Members:**  
+Bhumik Desai and team
+
+**My Contributions (Dhanush):**
+- Understanding overall MERN architecture  
+- Testing frontend functionality  
+- Verifying backend API integration  
+- Debugging UI issues  
+- Assisting with documentation and project setup  
+
